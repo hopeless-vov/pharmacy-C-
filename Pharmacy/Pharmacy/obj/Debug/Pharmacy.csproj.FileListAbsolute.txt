@@ -1,0 +1,121 @@
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+C:\Users\Volodunur\Documents\Visual Studio 2012\Projects\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+E:\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+E:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+E:\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+E:\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+E:\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+E:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+E:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+E:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Volodunur\Desktop\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+F:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+F:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+F:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+E:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+E:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+E:\курсач\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+E:\курсач\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+E:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+E:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+E:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+E:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+E:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+E:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+E:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+F:\курсач перероблений чучуть\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+F:\курсач перероблений чучуть\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+F:\курсач перероблений чучуть\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+F:\курсач\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+F:\курсач\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+F:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+F:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+F:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+F:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+F:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+F:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+F:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+D:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\курсач\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+D:\курсач\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+D:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\курсач\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+D:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+D:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+D:\курсач\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Volodunur\Desktop\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Pavlo\Downloads\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Volodunur\Desktop\курсач2\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\bin\Debug\Database.mdf
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\bin\Debug\Database_log.ldf
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\Volodunur\Desktop\курсова\курсач2\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
